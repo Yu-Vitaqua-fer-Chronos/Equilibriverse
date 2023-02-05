@@ -15,7 +15,7 @@ to the environment and/or Mana that does not share the same signature.
 
 !!! note "Reference"
 
-    Refer to <a href="/" class="reference">[Souls:Mana_Poisioning:Exacerbation]</a>
+    Refer to <a href="../../" class="reference">[Souls:Mana_Poisioning:Exacerbation]</a>
     for more information about why mismatched Mana Signatures in
     delicate environments can cause negative effects.
 
