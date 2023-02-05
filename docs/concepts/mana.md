@@ -22,7 +22,7 @@ to the environment and/or Mana that does not share the same signature.
 ## The Origin of Mana
 Mana is a type of energy created from the decay of Dark Matter, a
 form of matter that is abundant in the universe and will never run
-out due to the constant expansion of it.
+out due to the constant expansion of the universe.
 
 Primal Mana is the raw, unprocessed and purest form of Mana, and
 happens to be extremely toxic to souls with even the tiniest

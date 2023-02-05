@@ -1,0 +1,20 @@
+.reference:link {
+  color: #FFB52E;
+}
+
+.reference:visited {
+  color: #FFA500;
+}
+
+.reference:hover {
+  color: #FFC55C !important;
+}
+
+.reference:active {
+  color: #D18700 !important;
+}
+
+.reference:focus {
+  color: #D18700 !important;
+}
+
