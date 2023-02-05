@@ -1,0 +1,11 @@
+.reference {
+  color: #FFB52E;
+}
+
+.reference:hover {
+  color: #FFC55C;
+}
+
+.reference:visited {
+  color: #FFA500;
+}
