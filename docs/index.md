@@ -5,4 +5,4 @@ Equilibrium Universe, or as it will be commonly referred as,
 the Equilibriverse.
 
 ## Entries
-- [Mana](/concepts/mana)
+- [Mana](./concepts/mana)
