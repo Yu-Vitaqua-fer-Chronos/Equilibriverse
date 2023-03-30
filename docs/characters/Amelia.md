@@ -9,7 +9,7 @@
 
 **Labels**:
 
-  * Cisfem
+  * Transfem
   * Demipan
 
 **Pronouns**: She/Her
@@ -17,8 +17,8 @@
 **Relations**:
 
   * Aster - Father - Researcher
-  * Lilith - Bestfriend - Enchantress-In-Training
-  * Atlas - Bestfriend - Mage-In-Training
+  * Lilith - Bestfriend/Crush? - Enchantress-In-Training
+  * Atlas - Bestfriend/Crush - Mage-In-Training
   * Kyosei - Friend - Mage-In-Training
 
 **Affinity**: <strike>Energy Transmutation</strike> N/A
@@ -36,7 +36,7 @@ Amelia used to have the affinity known as Energy Transmutation,
 which allowed for the user to losslessly convert any type of
 energy into another. For example; Mana to electricity, Chemical to
 kinetic and even mana to chemical energy. But due to circumstances
-rhat will be detailed later on in the article, she now has no
+that will be detailed later on in the article, she now has no
 affinity.
 
 ## Personality
