@@ -32,3 +32,8 @@ Over time, as celestial bodies form, Primal Mana gathers within
 the same spots that stardust and other material does, and acts as a
 catalyst to speed up the process. Due to the intensity of this
 process, it breaks down Primal Mana into Mana.
+
+<!--
+## Uses of Mana
+Mana
+-->

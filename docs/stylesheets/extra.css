@@ -1,9 +1,9 @@
 .reference:link {
-  color: #FFB52E;
+  color: #FFB52E !important;
 }
 
 .reference:visited {
-  color: #FFA500;
+  color: #FFA500 !important;
 }
 
 .reference:hover {
