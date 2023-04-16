@@ -1,5 +1,7 @@
 # Amelia
 ## Overview
+**Age**: 17
+
 **Personality**:
 
   * Friendly
@@ -17,7 +19,7 @@
 **Relations**:
 
   * Aster - Father - Researcher
-  * Lilith - Bestfriend/Crush? - Enchantress-In-Training
+  * Lyra - Bestfriend/Crush? - Enchantress-In-Training
   * Atlas - Bestfriend/Crush - Mage-In-Training
   * Kyosei - Friend - Mage-In-Training
 

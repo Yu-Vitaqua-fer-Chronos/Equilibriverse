@@ -1,5 +1,7 @@
-# Lilith
+# Lyra
 ## Overview
+**Age**: 17
+
 **Personality**:
 
   * Flirtatious
@@ -32,18 +34,18 @@
 
 
 ## Affinity
-Lilith has the affinity known as Air Manipulation, it allows the user
+Lyra has the affinity known as Air Manipulation, it allows the user
 to control the elements commonly found in air, letting the user shape,
 spread or compress it however the user desires. Compressing the gases
 allow for making the air permeable and able to be touched, picked up
 or grabbed.
 
 ## Personality
-Lilith is often described as cold, from people who don't know her. In
-reality, Lilith is just socially awkward and only talks to those who
+Lyra is often described as cold, from people who don't know her. In
+reality, Lyra is just socially awkward and only talks to those who
 reach out to her first.
 
-Lilith is not easily read, never putting her true emotions out for
+Lyra is not easily read, never putting her true emotions out for
 all to see, preferring to do small acts to show her affection,
 platonic or otherwise. This could involve a casual "Good morning" or
 a trip to the arcade.

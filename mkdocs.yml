@@ -5,6 +5,11 @@ markdown_extensions:
   - toc:
       permalink: 🔗
 
+plugins:
+  - exclude:
+      glob:
+        - docs/characters/template.md
+
 extra_css:
   - stylesheets/extra.css
 
